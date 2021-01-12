@@ -58,7 +58,7 @@ module.exports = {
 
   server: {
     host: '0.0.0.0',
-    port: 80
+    port: 4000
   },
 
   // 注册插件
